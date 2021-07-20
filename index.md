@@ -1,6 +1,8 @@
----
-layout: default
----
 # Ritesh Kumar
-{% include 01-name.md %}
+layout: default
+## Github Potfolio
+### Hey Everyone
+#### Meet Me
+#####
+###### {% include 01-name.md %}
 
