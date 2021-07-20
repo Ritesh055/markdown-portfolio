@@ -1,7 +1,3 @@
-Ritesh Kumar
-# Github Potfolio
-### Hey Everyone
-#### Meet Me
-#####
-###### Ritesh Kumar
-
+# Ritesh Kumar
+## Github Potfolio
+## Hey Everyone
