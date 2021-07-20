@@ -1,5 +1,5 @@
-# Ritesh Kumar
-## Github Potfolio
+Ritesh Kumar
+# Github Potfolio
 ### Hey Everyone
 #### Meet Me
 #####
